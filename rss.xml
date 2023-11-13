@@ -30,10 +30,13 @@
 	        </item>
 	        <item>
 		<title>invertos </title>
+		</turbo:content>
 		<link>https://upsidedowngoggles.com/ru</link>
-		<description>
+		<turbo:content>
+		<![CDATA[	
 		Купить инвертоскоп и псевдоскоп!  Лучшие очки перевертыши От 5700 руб .  Лучшее качество для тренировки и веселья!  Сделай мозг сильным! Настоящая реальность в очках перевертышах от invertos!
-		</description>
+		]]>
+		</turbo:content>
 		<pubDate>Sat, 23 Dec 2017 21:00:00 GMT</pubDate>
 		<guid>https://upsidedowngoggles.com/ru</guid>
 		<enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" />
