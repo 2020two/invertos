@@ -15,7 +15,6 @@
 		<pubDate>Fri, 27 Oct 2023 21:00:00 GMT</pubDate>
 		<generator>Tilda Publishing</generator>
 		</item>
-		<item>
 		<title>invertos catalog на русском</title>
 		<item turbo="true">
 		<link>https://upsidedowngoggles.com/catalogrus</link>
@@ -28,8 +27,7 @@
 		<guid>https://upsidedowngoggles.com/catalogrus</guid>
 		<enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" />
 	        </item>
-	        <item>
-		<title>invertos </title>
+	        <title>invertos </title>
 		<item turbo="true">
 		<link>https://upsidedowngoggles.com/ru</link>
 		<turbo:content>
@@ -41,5 +39,5 @@
 		<guid>https://upsidedowngoggles.com/ru</guid>
 		<enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" />
 		</item>
-</channel>
+      </channel>
 </rss>
