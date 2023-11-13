@@ -5,10 +5,13 @@
      version="2.0">
 	<channel>
 		<title>invertos</title>
+		<item turbo="true">
 		<link>https://upsidedowngoggles.com</link>
-		<description>
-	        upside down goggles for fun and pump brain. Biohacking! Perfect quality of optics! ( лучшее качество всевозможных очков перевертышей и других оптических устройств)
-		</description>
+		<turbo:content>
+		<![CDATA[	        
+		upside down goggles for fun and pump brain. Biohacking! Perfect quality of optics! ( лучшее качество всевозможных очков перевертышей и других оптических устройств)
+		]]>
+		</turbo:content>
 		<pubDate>Fri, 27 Oct 2023 21:00:00 GMT</pubDate>
 		<generator>Tilda Publishing</generator>
 		<item>
