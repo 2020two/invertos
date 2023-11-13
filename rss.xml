@@ -17,10 +17,13 @@
 		</item>
 		<item>
 		<title>invertos catalog на русском</title>
+		<item turbo="true">
 		<link>https://upsidedowngoggles.com/catalogrus</link>
-		<description>
+		<turbo:content>
+		<![CDATA[	
 		Купить инвертоскоп и псевдоскоп!  Не просто очки перевертыши, а нечто большее. От 5700 руб .  Лучшее качество для тренировки и веселья!  Сделай мозг сильным! Настоящая реальность.
-		</description>
+		]]>
+		</turbo:content>
 		<pubDate>Fri, 27 Oct 2023 21:00:00 GMT</pubDate>
 		<guid>https://upsidedowngoggles.com/catalogrus</guid>
 		<enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" />
