@@ -30,7 +30,7 @@
 	        </item>
 	        <item>
 		<title>invertos </title>
-		</turbo:content>
+		<item turbo="true">
 		<link>https://upsidedowngoggles.com/ru</link>
 		<turbo:content>
 		<![CDATA[	
