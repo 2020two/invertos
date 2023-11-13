@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:yandex="http://news.yandex.ru"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:turbo="http://turbo.yandex.ru"
+     version="2.0">
 	<channel>
 		<title>invertos</title>
 		<link>https://upsidedowngoggles.com</link>
-		<description>upside down goggles for fun and pump brain. Biohacking! Perfect quality of optics! ( лучшее качество всевозможных очков перевертышей и других оптических устройств)</description>
-		<pubDate>Thu, 02 Nov 2023 21:00:00 GMT</pubDate>
+		<description>
+	        upside down goggles for fun and pump brain. Biohacking! Perfect quality of optics! ( лучшее качество всевозможных очков перевертышей и других оптических устройств)
+		</description>
+		<pubDate>Fri, 27 Oct 2023 21:00:00 GMT</pubDate>
 		<generator>Tilda Publishing</generator>
 		<item>
-      <title>Ordermess</title>
-      <link>https://upsidedowngoggles.com/ordermess</link>
-      <description>Купить инвертоскоп и псевдоскоп!  Не просто очки перевертыши, а нечто большее. От 5700 руб .  Лучшее качество для тренировки и веселья!  Сделай мозг сильным! Настоящая реальность.</description>
-      <pubDate>Thu, 02 Nov 2023 21:00:00 GMT</pubDate>
-      <guid>https://upsidedowngoggles.com/ordermess</guid>
-      <enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" />
-    </item>
-		<item>
-      <title>invertos catalog на русском</title>
-      <link>https://upsidedowngoggles.com/catalogrus</link>
-      <description>Купить инвертоскоп и псевдоскоп!  Не просто очки перевертыши, а нечто большее. От 5700 руб .  Лучшее качество для тренировки и веселья!  Сделай мозг сильным! Настоящая реальность.</description>
-      <pubDate>Fri, 27 Oct 2023 21:00:00 GMT</pubDate>
-      <guid>https://upsidedowngoggles.com/catalogrus</guid>
-      <enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" />
-    </item>
-		<item><title>О магазине</title><link>https://upsidedowngoggles.com/ip</link><description>Купить инвертоскоп и псевдоскоп!  Не просто очки перевертыши, а нечто большее. От 5700 руб .  Лучшее качество для тренировки и веселья!  Сделай мозг сильным! Настоящая реальность.</description><pubDate>Thu, 26 Oct 2023 21:00:00 GMT</pubDate><guid>https://upsidedowngoggles.com/ip</guid><enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" /></item>
-		<item><title>Условия возрата и общие правила покупки</title><link>https://upsidedowngoggles.com/return</link><description>Купить инвертоскоп и псевдоскоп!  Не просто очки перевертыши, а нечто большее. От 5700 руб .  Лучшее качество для тренировки и веселья!  Сделай мозг сильным! Настоящая реальность.</description><pubDate>Thu, 26 Oct 2023 21:00:00 GMT</pubDate><guid>https://upsidedowngoggles.com/return</guid><enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" /></item>
-		<item><title>Доставка и оплата</title><link>https://upsidedowngoggles.com/delivery</link><description>Купить инвертоскоп и псевдоскоп!  Не просто очки перевертыши, а нечто большее. От 5700 руб .  Лучшее качество для тренировки и веселья!  Сделай мозг сильным! Настоящая реальность.</description><pubDate>Thu, 26 Oct 2023 21:00:00 GMT</pubDate><guid>https://upsidedowngoggles.com/delivery</guid><enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" /></item>
-		<item><title>Политика обработки персональных данных</title><link>https://upsidedowngoggles.com/pd</link><description>Купить инвертоскоп и псевдоскоп!  Не просто очки перевертыши, а нечто большее. От 5700 руб .  Лучшее качество для тренировки и веселья!  Сделай мозг сильным! Настоящая реальность.</description><pubDate>Thu, 26 Oct 2023 21:00:00 GMT</pubDate><guid>https://upsidedowngoggles.com/pd</guid><enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" /></item>
-		<item><title>invertos</title><link>https://upsidedowngoggles.com/</link><description>Invertos or upside down goggles Buy Now!  Price from  109$ .  Perfect quality for fun and training.  Make your brain strong! Biohacking and  brain pump.</description><pubDate>Wed, 21 Aug 2019 19:55:36 GMT</pubDate><guid>https://upsidedowngoggles.com/</guid><enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" /></item>
-		<item><title>invertos catalog</title><link>https://upsidedowngoggles.com/catalog</link><description>Invertos or upside down goggles Buy Now!  Price from  109$ .  Perfect quality for fun and training.  Make your brain strong! Biohacking and  brain pump.</description><pubDate>Thu, 22 Aug 2019 19:27:35 GMT</pubDate><guid>https://upsidedowngoggles.com/catalog</guid><enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" /></item>
-		<item><title>invertos </title><link>https://upsidedowngoggles.com/ru</link><description>Купить инвертоскоп и псевдоскоп!  Лучшие очки перевертыши От 5700 руб .  Лучшее качество для тренировки и веселья!  Сделай мозг сильным! Настоящая реальность в очках перевертышах от invertos!</description><pubDate>Sat, 23 Dec 2017 21:00:00 GMT</pubDate><guid>https://upsidedowngoggles.com/ru</guid><enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" /></item>
-</channel></rss>
+		<title>invertos catalog на русском</title>
+		<link>https://upsidedowngoggles.com/catalogrus</link>
+		<description>
+		Купить инвертоскоп и псевдоскоп!  Не просто очки перевертыши, а нечто большее. От 5700 руб .  Лучшее качество для тренировки и веселья!  Сделай мозг сильным! Настоящая реальность.
+		</description>
+		<pubDate>Fri, 27 Oct 2023 21:00:00 GMT</pubDate>
+		<guid>https://upsidedowngoggles.com/catalogrus</guid>
+		<enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" />
+	        </item>
+	        <item>
+		<title>invertos </title>
+		<link>https://upsidedowngoggles.com/ru</link>
+		<description>
+		Купить инвертоскоп и псевдоскоп!  Лучшие очки перевертыши От 5700 руб .  Лучшее качество для тренировки и веселья!  Сделай мозг сильным! Настоящая реальность в очках перевертышах от invertos!
+		</description>
+		<pubDate>Sat, 23 Dec 2017 21:00:00 GMT</pubDate>
+		<guid>https://upsidedowngoggles.com/ru</guid>
+		<enclosure url="https://static.tildacdn.com/tild6562-3837-4362-a332-316463633239/UPD_eng.png" type="image/png" />
+		</item>
+</channel>
+</rss>
