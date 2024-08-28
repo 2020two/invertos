@@ -5,7 +5,7 @@
 <link>https://shop.invertos.com/</link>
 <description>Google Products feed</description>
 <item>
-  <title>Phantomoscope</title>
+  <title>Phantoms</title>
   <link>https://shop.invertos.com/tproduct/181981047572-phantoms</link>
   <g:id xmlns:g="http://base.google.com/ns/1.0">i009</g:id>
   <g:condition xmlns:g="http://base.google.com/ns/1.0">new</g:condition>
@@ -62,7 +62,7 @@
   <g:condition xmlns:g="http://base.google.com/ns/1.0">new</g:condition>
   <g:price xmlns:g="http://base.google.com/ns/1.0">9950 RUB</g:price>
   <g:availability xmlns:g="http://base.google.com/ns/1.0">out of stock</g:availability>
-  <g:image_link xmlns:g="https://static.tildacdn.com/tild3735-3732-4634-a338-303562626366/Hyperscope.png</g:image_link>
+  <g:image_link xmlns:g="http://base.google.com/ns/1.0">https://static.tildacdn.com/tild3735-3732-4634-a338-303562626366/Hyperscope.png</g:image_link>
   <g:shipping_weight xmlns:g="http://base.google.com/ns/1.0">1.0 kg</g:shipping_weight>
   <g:product_type xmlns:g="http://base.google.com/ns/1.0">models (инверто - псевдоскопы, очки перевертыши и др)</g:product_type>
   <g:google_product_category xmlns:g="http://base.google.com/ns/1.0">Arts &amp; Entertainment</g:google_product_category>
@@ -91,13 +91,13 @@
   </description>
 </item>
 <item>
-  <title>invertos 3xb = pseudoscope 3xb</title>
-  <link>https://shop.invertos.com/invertos-3xb-=-pseudoscope-3xb-p164563583</link>
+  <title>invertos 3XB (очки перевертыши с вращением призм)</title>
+  <link>https://shop.invertos.com/tproduct/205144597292-invertos-3xb-ochki-perevertishi-s-vrasch</link>
   <g:id xmlns:g="http://base.google.com/ns/1.0">009</g:id>
   <g:condition xmlns:g="http://base.google.com/ns/1.0">new</g:condition>
   <g:price xmlns:g="http://base.google.com/ns/1.0">5700 RUB</g:price>
   <g:availability xmlns:g="http://base.google.com/ns/1.0">in stock</g:availability>
-  <g:image_link xmlns:g="http://base.google.com/ns/1.0">https://d2j6dbq0eux0bg.cloudfront.net/images/4640137/2808190661.jpg</g:image_link>
+  <g:image_link xmlns:g="http://base.google.com/ns/1.0">https://static.tildacdn.com/tild6466-3266-4233-b536-366561356533/upside_down_goggles_.png</g:image_link>
   <g:shipping_weight xmlns:g="http://base.google.com/ns/1.0">0.6 kg</g:shipping_weight>
   <g:product_type xmlns:g="http://base.google.com/ns/1.0">models (инверто - псевдоскопы, очки перевертыши и др)</g:product_type>
   <g:google_product_category xmlns:g="http://base.google.com/ns/1.0">Arts &amp; Entertainment</g:google_product_category>
